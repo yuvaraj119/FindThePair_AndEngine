@@ -2,10 +2,3 @@
 
 ![GIF](https://github.com/yuvaraj119/FindThePair_AndEngine/blob/master/findthepair.gif)
 
-
-
-
-
-# Author
-Yuvaraj Kumar Yadav K :point_right: https://github.com/yuvaraj119
-
